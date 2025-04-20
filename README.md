@@ -31,3 +31,14 @@ The notebook encompasses:
 - Detailed analysis of feature distributions and relationships.
 - Identification of potential outliers and anomalies.
 - Insights to guide feature engineering and model selection.
+
+## 🙋‍♀️ About Me
+
+**Surekha (Gauri) Thombare**  
+📍 Pune, India  
+📧 surekhathombare02@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/surekha-thombare-928b90220/) | [GitHub](https://github.com/gaurithombare)
+
+---
+
+> _"Exploratory Data Analysis is the art of uncovering the stories hidden within data."_
