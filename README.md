@@ -16,3 +16,11 @@ The notebook encompasses:
 - **Key Observations**: Summarizing findings to inform further analysis.
 
 ---
+## 🛠 Tools & Technologies
+
+- **Python**
+- **Pandas** – Data manipulation
+- **Matplotlib & Seaborn** – Data visualization
+- **Jupyter Notebook**
+
+---
